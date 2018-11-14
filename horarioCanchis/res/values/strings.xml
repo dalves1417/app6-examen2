@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">horarioCanchis</string>
+    <string name="action_settings">Settings</string>
+    <string name="horario">HORARIO COIN VI</string>
+    <string name="legislacion">LEG. E INSERCION LABORAL</string>
+    <string name="liderasgo">LIDERAZGO Y TRABAJO</string>
+    <string name="empre">PROYECTO EMPRESARIAL</string>
+    <string name="taller">TALLER DE PROGRAMACION WEB</string>
+    <string name="comercio">COMERCIO ELECTRONICO</string>
+    <string name="aplicacion">APLICACIONES MOVILES</string>
+    <string name="prod">PRODUCCION AUDIVISUAL</string>
+    
+    
+
+</resources>

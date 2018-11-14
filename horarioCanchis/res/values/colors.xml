@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="Amarillo">#ffff00</color>
+     <color name="Rojo">#ff0000</color>
+     <color name="Azul">#0040ff</color>
+     <color name="Anaranjado">#ff8040</color>
+     <color name="Violeta">#d042ff</color>
+     <color name="verde">#00ff00</color>
+     <color name="Blanco">#ffffff</color>
+    <color name="Negro">#000000</color>
+     <color name="Celeste">#80dfff</color>
+</resources>
